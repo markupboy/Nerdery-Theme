@@ -461,10 +461,10 @@ ul.homeBlocks {
 #navigationTabs li.parent.active > a,
 .less_important_bttn:active, 
 .rightNav .submit:active {
-    background: #BB1A4B; /* old browsers */
-    background: -moz-linear-gradient(top, #BB1A4B 0%, #D91350 76%); /* firefox */
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#BB1A4B), color-stop(76%,#D91350)); /* webkit */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#BB1A4B', endColorstr='#D91350',GradientType=0 ); /* ie */
+    background: #D91350; /* old browsers */
+    background: -moz-linear-gradient(top, #D91350 0%, #BB1A4B 76%); /* firefox */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#D91350), color-stop(76%,#BB1A4B)); /* webkit */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#D91350', endColorstr='#BB1A4B',GradientType=0 ); /* ie */
 }
 
 #navigationTabs li.parent.active li a:hover,
